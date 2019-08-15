@@ -5,10 +5,10 @@ function Navbar() {
     <div>
         <ul class="nav">
             <li class="nav-item">
-            <a class="nav-link active" href="../index">Active</a>
+            <a class="nav-link active" href="../index">Hone</a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
+            <a class="nav-link" href="#">Play</a>
             </li>
         
         </ul>
