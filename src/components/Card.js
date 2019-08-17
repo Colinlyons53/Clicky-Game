@@ -1,5 +1,5 @@
 import React from 'react'
-function Card() {
+function Card(props) {
     return(
         <div className="card" onClick={() => props.clickCount(props.id)}>
             <div className="img-container">

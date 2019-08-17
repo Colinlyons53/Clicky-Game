@@ -1,6 +1,6 @@
 import React from 'react'
-
-function Header() {
+import "./Header.css"
+function Header(props) {
     return(
         <div className="header">
         <h1>Select a Meme, but dont pick the same meme more then once. </h1>
